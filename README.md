@@ -1,5 +1,5 @@
 elandra lmao
-i like coding and cybersec stuff
+i like coding and cybersec stuff,
 if you see weird things pop up here, I sometimes find code I like...
 ...or I have been working on projects of my own
 
