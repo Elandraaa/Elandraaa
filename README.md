@@ -5,6 +5,8 @@ if you see weird things pop up here, I sometimes find code I like...
 
 working on: drone team things, more cybersec stuff, and some python projects
 
+languages: python, java, and a bit of c++
+
 
 <!---
 Elandraaa/Elandraaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
