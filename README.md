@@ -8,6 +8,7 @@ working on: more cybersec stuff, and some small python projects
 languages: python, java, and a bit of c++
 
 praying to get into an internship
+
 update: got the internship
 
 
